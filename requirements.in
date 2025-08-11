@@ -1,0 +1,12 @@
+pandas
+openai
+xlsxwriter
+
+
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-aws
+langchain-openai
+boto3
+python-dotenv

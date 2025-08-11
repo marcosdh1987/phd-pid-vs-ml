@@ -1,0 +1,80 @@
+source,Title,Author Keywords,Source title,DOI
+scopus,A one-class support vector machine for detecting valve stiction,Control loop performance monitoring; Control valve; Feature extraction; Linear discriminant analysis; Principal component analysis; Scikit-learn; Stiction; Support vector machine; Time series; Tsfresh,Digital Chemical Engineering,10.1016/j.dche.2023.100116
+scopus,Automatic oscillations detection and classification of control loop using generalized machine learning algorithms,control valve; machine learning; model free; Oscillation detection; stiction,Transactions of the Institute of Measurement and Control,10.1177/01423312221118129
+scopus,Control valve stiction detection using Markov transition field and deep convolutional neural network,convolutional neural network; machine learning; Markov transition field; stiction detection; transfer learning,Canadian Journal of Chemical Engineering,10.1002/cjce.25054
+scopus,Enhanced classification of hydraulic testing of directional control valves with synthetic data generation,Conditional tabular generative adversarial networks; Machine learning; Predictive quality; Quality control; Semi-supervised learning; Tabular variational autoencoder,Production Engineering,10.1007/s11740-023-01204-8
+scopus,Fault Detection of Flow Control Valves Using Online LightGBM and STL Decomposition,flow control valve; LightGBM; online fault detection; residual analysis; STL decomposition,Actuators,10.3390/act13060222
+scopus,Implementing and evaluating the quality 4.0 PMQ framework for process monitoring in automotive manufacturing,Industry 4.0; Machine learning; Manufacturing process optimization; Predictive maintenance; Process monitoring for quality framework; Quality 4.0,Scientific Reports,10.1038/s41598-025-10226-4
+scopus,APAH: An autonomous IoT driven real-time monitoring system for Industrial wastewater,ESP8266; Internet of Things; Monitoring; pH; Wastewater; Water quality,Digital Chemical Engineering,10.1016/j.dche.2025.100217
+scopus,"Complex Dynamics and Intelligent Control: Advances, Challenges, and Applications in Mining and Industrial Processes",chaotic dynamics; energy transition; industrial cybersecurity; machine learning; magnetohydrodynamics; Mining 4.0; robust control; stochastic modeling,Mathematics,10.3390/math13060961
+scopus,Intelligent Control Valve Stiction Diagnosis Approach,stiction detection; stiction quantification; Valve nonlinearity,IEEE Access,10.1109/ACCESS.2025.3573646
+scopus,Stiction detection and recurrence analysis for control valves by phase space reconstruction method,Control loop; Phase space reconstruction; Recurrence analysis; Valve stiction,Advanced Engineering Informatics,10.1016/j.aei.2024.102949
+scopus,Comparative Analysis of PID and Robust IMC Control in Cascaded Processes With Time-Delay,delay systems; internal model control; Process control; proportional-integral-derivative (PID) tuning; robustness; sliding mode control,IEEE Access,10.1109/ACCESS.2024.3467922
+scopus,Stiction-model-based re-tuning of PI controller for industrial process control loops,control valves; Optimization; PID control; process control; process models,"SICE Journal of Control, Measurement, and System Integration",10.1080/18824889.2023.2295063
+scopus,Parameters’ Optimization in Compressed Air Pressure Process Using Hybrid Fmin–GA-Based PID and Fractional Order Internal Model Controller,Compressed air pressure system; Genetic algorithm; IMC and MPC; Nonlinear system; PID controller,IETE Journal of Research,10.1080/03772063.2022.2139297
+scopus,NEW MCA GENERATOR,Biocide program; MCA program; Monochloramine (MCA); New MCA generator; Paper machine microbicide program,IPPTA: Quarterly Journal of Indian Pulp and Paper Technical Association,
+scopus,Advanced Study: Improving the Quality of Cooling Water Towers’ Conductivity Using a Fuzzy PID Control Model,cooling water towers; electrical conductivity; fuzzy PID control; motor control; PID control,Mathematics,10.3390/math12203296
+scopus,Nonlinear optimal control for robotic exoskeletons with electropneumatic actuators,Differential flatness properties; Electropneumatic robots; Global stability; Jacobian matrices; Nonlinear H-infinity control; Riccati equation; Robotic exoskeletons; Taylor series expansion,Robotic Intelligence and Automation,10.1108/RIA-05-2023-0062
+scopus,Developing a novel Gaussian process model predictive controller to improve the energy efficiency and tracking accuracy of the pressure servo control system,Energy efficiency; Gaussian process; Model predictive control; Pneumatic system; Pressure tracking,Journal of Cleaner Production,10.1016/j.jclepro.2023.138057
+scopus,Stiction compensation for low-cost electric valves,Control valves; Nonlinear control; Process control; Stiction,Control Engineering Practice,10.1016/j.conengprac.2023.105482
+scopus,"Modeling, optimization and control of a ceramic tunnel kiln for consistent product quality under changing production demands",Ceramics; Feedback control; Furnace; Mathematical modelling; Optimization; Tunnel kiln,Computers and Chemical Engineering,10.1016/j.compchemeng.2024.108812
+scopus,Design and Realization of Fully Automatic Pump Performance Test System,Automation; Host computer; Net; Performance measurement; Pumps; Test systems,International Journal of Engineering Research in Africa,10.4028/p-MX1eNP
+scopus,Development of rotary straw burying and returning navigation system based on variable-gain single-neuron PID; [基于变增益单神经元PID的秸秆旋埋还田导航系统研制],Agricultural machinery; Controller; Dual-antenna RTK-GNSS; Electronic-control proportional hydraulic system; Navigation; Rotary burying and returning; Straw; Variable-gain single-neuron PID,Nongye Gongcheng Xuebao/Transactions of the Chinese Society of Agricultural Engineering,10.11975/j.issn.1002-6819.2021.05.004
+scopus,Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA,control; embedded; FPGA; neural network; neuro-PID; pneumatic actuators; robot arm,Micromachines,10.3390/mi13060890
+scopus,Exploring the Application of Large Language Models Based AI Agents in Leakage Detection of Natural Gas Valve Chambers,AI agent; large language model; leakage detection; natural gas valve chamber,Energies,10.3390/en17225633
+WoS,An approach for stiction compensation in industrial process control valves,,COMPUTERS & CHEMICAL ENGINEERING,10.1016/j.compchemeng.2021.107641
+WoS,Design of FOPID Controller for Pneumatic Control Valve Based on Improved BBO Algorithm,,SENSORS,10.3390/s22176706
+WoS,Stiction-model-based re-tuning of PI controller for industrial process control loops,,SICE JOURNAL OF CONTROL MEASUREMENT AND SYSTEM INTEGRATION,10.1080/18824889.2023.2295063
+WoS,Surge protection of centrifugal compressors using advanced anti-surge control system,,MEASUREMENT & CONTROL,10.1177/0020294020983372
+WoS,Stiction compensation for low-cost electric valves,,CONTROL ENGINEERING PRACTICE,10.1016/j.conengprac.2023.105482
+WoS,"Modeling, optimization and control of a ceramic tunnel kiln for consistent product quality under changing production demands",,COMPUTERS & CHEMICAL ENGINEERING,10.1016/j.compchemeng.2024.108812
+WoS,Comparative Analysis of PID and Robust IMC Control in Cascaded Processes With Time-Delay,,IEEE ACCESS,10.1109/ACCESS.2024.3467922
+WoS,Industrial Implementation of State Dependent Parameter PID plus Control for Nonlinear Time Delayed Bitumen Tank System,,IRANIAN JOURNAL OF SCIENCE AND TECHNOLOGY-TRANSACTIONS OF ELECTRICAL ENGINEERING,10.1007/s40998-022-00488-3
+WoS,Applicant hierarchical fuzzy controller for concentration control of simulated moving bed,,SCIENTIFIC REPORTS,10.1038/s41598-021-97134-5
+WoS,Parameters' Optimization in Compressed Air Pressure Process Using Hybrid Fmin-GA-Based PID and Fractional Order Internal Model Controller,,IETE JOURNAL OF RESEARCH,10.1080/03772063.2022.2139297
+WoS,Event-driven enabled regression aided multi-loop control for SEC minimisation in SWRO desalination considering salinity variation,,ISA TRANSACTIONS,10.1016/j.isatra.2021.02.035
+WoS,Advanced Study: Improving the Quality of Cooling Water Towers' Conductivity Using a Fuzzy PID Control Model,,MATHEMATICS,10.3390/math12203296
+WoS,Developing a novel Gaussian process model predictive controller to improve the energy efficiency and tracking accuracy of the pressure servo control system,,JOURNAL OF CLEANER PRODUCTION,10.1016/j.jclepro.2023.138057
+WoS,Reinforcement learning for control of valves,,MACHINE LEARNING WITH APPLICATIONS,10.1016/j.mlwa.2021.100030
+WoS,Performance Comparison of Control Strategies for Plant-Wide Produced Water Treatment,,ENERGIES,10.3390/en15020418
+WoS,Development of Pneumatic Force-Controlled Actuator for Automatic Robot Polishing Complex Curved Plexiglass Parts,,MACHINES,10.3390/machines11040446
+WoS,Communicating the Automatic Control Principles in Smart Agriculture Education: The Interactive Water Pump Example,,ROBOTICS,10.3390/robotics14060068
+WoS,Research of Pneumatic Polishing Force Control System Based on High Speed On/off with PWM Controlling,,ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING,10.1016/j.rcim.2021.102133
+WoS,Design and Realization of Fully Automatic Pump Performance Test System,,INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH IN AFRICA,10.4028/p-MX1eNP
+WoS,Predictive control scheme by integrating event-triggered mechanism and disturbance observer under actuator failure and sensor fault,,PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART I-JOURNAL OF SYSTEMS AND CONTROL ENGINEERING,10.1177/09596518231204725
+WoS,Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA,,MICROMACHINES,10.3390/mi13060890
+WoS,Internal Model Control for Onboard Methanol-Reforming Hydrogen Production Systems,,ENERGIES,10.3390/en18030476
+WoS,Experimental analysis of the performance of the air supply system in a 120 kW polymer electrolyte membrane fuel cell system,,INTERNATIONAL JOURNAL OF HYDROGEN ENERGY,10.1016/j.ijhydene.2022.04.189
+WoS,Nonlinear optimal control for robotic exoskeletons with electropneumatic actuators,,ROBOTIC INTELLIGENCE AND AUTOMATION,10.1108/RIA-05-2023-0062
+WoS,Control valve stiction detection using Markov transition field and deep convolutional neural network,,CANADIAN JOURNAL OF CHEMICAL ENGINEERING,10.1002/cjce.25054
+WoS,Fault Detection of Flow Control Valves Using Online LightGBM and STL Decomposition,,ACTUATORS,10.3390/act13060222
+WoS,A one-class support vector machine for detecting valve stiction,,DIGITAL CHEMICAL ENGINEERING,10.1016/j.dche.2023.100116
+WoS,A Literature Review of the Positive Displacement Compressor: Current Challenges and Future Opportunities,,ENERGIES,10.3390/en16207035
+WoS,Enhanced classification of hydraulic testing of directional control valves with synthetic data generation,,PRODUCTION ENGINEERING-RESEARCH AND DEVELOPMENT,10.1007/s11740-023-01204-8
+WoS,Reinforcement learning for control of valves,,MACHINE LEARNING WITH APPLICATIONS,10.1016/j.mlwa.2021.100030
+WoS,"Complex Dynamics and Intelligent Control: Advances, Challenges, and Applications in Mining and Industrial Processes",,MATHEMATICS,10.3390/math13060961
+WoS,Residual Life Prediction of Pneumatic Control Valves Based on Trans-TCN-GRU Modeling,,IEEE ACCESS,10.1109/ACCESS.2024.3513484
+WoS,Neuro-Fuzzy System for Compensating Slow Disturbances in Adaptive Mold Level Control,,METALS,10.3390/met11010056
+WoS,A novel modelling of glue allowance prediction for time-pressure dispensing system based on gated recurrent unit and fully connected neural network,,JOURNAL OF ADVANCED MECHANICAL DESIGN SYSTEMS AND MANUFACTURING,10.1299/jamdsm.2023jamdsm0070
+WoS,A Method for Detecting Key Points of Transferring Barrel Valve by Integrating Keypoint R-CNN and MobileNetV3,,ELECTRONICS,10.3390/electronics12204306
+WoS,Enhancing metal additive manufacturing training with the advanced vision language model: A pathway to immersive augmented reality training for non-experts,,JOURNAL OF MANUFACTURING SYSTEMS,10.1016/j.jmsy.2024.06.007
+WoS,Precise Burden Charging Operation During Iron-Making Process in Blast Furnace,,IEEE ACCESS,10.1109/ACCESS.2021.3064885
+WoS,A systematic approach for data generation for intelligent fault detection and diagnosis in District Heating,,ENERGY,10.1016/j.energy.2024.132711
+WoS,Utilizing Selected Machine Learning Methods for Conicity Prediction in the Process of Producing Radial Tires for Passenger Cars,,APPLIED SCIENCES-BASEL,10.3390/app14156393
+WoS,Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA,,MICROMACHINES,10.3390/mi13060890
+WoS,A Performance Prediction Method for a High-Precision Servo Valve Supported by Digital Twin Assembly-Commissioning,,MACHINES,10.3390/machines10010011
+WoS,Dynamic Prediction of Performance Degradation Characteristics of Direct-Drive Electro-Hydraulic Servo Valves,,APPLIED SCIENCES-BASEL,10.3390/app13127231
+WoS,Detecting Semantic Attack in SCADA System: A Behavioral Model Based on Secondary Labeling of States-Duration Evolution Graph,,IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING,10.1109/TNSE.2021.3130602
+WoS,APAH: An autonomous IoT driven real-time monitoring system for Industrial wastewater,,DIGITAL CHEMICAL ENGINEERING,10.1016/j.dche.2025.100217
+WoS,Diagnosis of Pneumatic Systems on Basis of Time Series and Generalized Feature for Comparison with Standards for Normal Working Condition,,TEM JOURNAL-TECHNOLOGY EDUCATION MANAGEMENT INFORMATICS,10.18421/TEM101-23
+WoS,Real-Time Pipe and Valve Characterisation and Mapping for Autonomous Underwater Intervention Tasks,,SENSORS,10.3390/s22218141
+WoS,Self-adapting anti-surge intelligence control and numerical simulation of centrifugal compressors based on RBF neural network,,ENERGY REPORTS,10.1016/j.egyr.2022.01.135
+WoS,Anomaly Segmentation Based on Depth Image for Quality Inspection Processes in Tire Manufacturing,,APPLIED SCIENCES-BASEL,10.3390/app112110376
+WoS,"Revolutionizing Tire Quality Control: AI's Impact on Research, Development, and Real-Life Applications",,APPLIED SCIENCES-BASEL,10.3390/app13148406
+WoS,Tire Bubble Defect Detection Using Incremental Learning,,APPLIED SCIENCES-BASEL,10.3390/app122312186
+WoS,Explainable attention-based fused convolutional neural network (XAFCNN) for tire defect detection: an industrial case study,,ENGINEERING RESEARCH EXPRESS,10.1088/2631-8695/ad23c8
+WoS,Bridging the performance gap between passive and autonomous inflow control devices with a hybrid dynamic optimization technique integrating machine learning and global sensitivity analysis,,GEOENERGY SCIENCE AND ENGINEERING,10.1016/j.geoen.2024.213037
+WoS,Reinforcement learning for control of valves,,MACHINE LEARNING WITH APPLICATIONS,10.1016/j.mlwa.2021.100030
+WoS,Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA,,MICROMACHINES,10.3390/mi13060890
+WoS,Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA,,MICROMACHINES,10.3390/mi13060890
+WoS,Exploring the Application of Large Language Models Based AI Agents in Leakage Detection of Natural Gas Valve Chambers,,ENERGIES,10.3390/en17225633
