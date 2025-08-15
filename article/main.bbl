@@ -1,0 +1,617 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{cabrera-rufino_implementation_2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f338b025526a373730f0e4392aafd905}{%
+           family={Cabrera-Rufino},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Marco-Antonio},
+           giveni={M\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6a0410cb379176932158d5da55cd79}{%
+           family={Ramos-Arreguín},
+           familyi={R\bibinithyphendelim A\bibinitperiod},
+           given={Juan-Manuel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38bc4885ee7654a1eeb070eb0b335b62}{%
+           family={Rodríguez-Reséndiz},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Juvenal},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7171b7e753d67ea93cd5e1a1245dad1}{%
+           family={Gorrostieta-Hurtado},
+           familyi={G\bibinithyphendelim H\bibinitperiod},
+           given={Efren},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66486377aec95f92ff06d6ca71dd0d61}{%
+           family={Aceves-Fernandez},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={Marco-Antonio},
+           giveni={M\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fda2d4c8b5d9dd51308aed97668c0062}
+      \strng{fullhash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{fullhashraw}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{bibnamehash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authorbibnamehash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authornamehash}{fda2d4c8b5d9dd51308aed97668c0062}
+      \strng{authorfullhash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authorfullhashraw}{80577d103ee922879c826e3a16bbbfcb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artiﬁcial intelligence techniques for pneumatic robot manipulators have become of deep interest in industrial applications, such as non-high voltage environments, clean operations, and high power-to-weight ratio tasks. The principal advantages of this type of actuator are the implementation of clean energies, low cost, and easy maintenance. The disadvantages of working with pneumatic actuators are that they have non-linear characteristics. This paper proposes an intelligent controller embedded in a programmable logic device to minimize the non-linearities of the air behavior into a 3-degrees-of-freedom robot with pneumatic actuators. In this case, the device is suitable due to several electric valves, direct current motors signals, automatic controllers, and several neural networks. For every degree of freedom, three neurons adjust the gains for each controller. The learning process is constantly tuning the gain value to reach the minimum of the mean square error. Results plot a more appropriate behavior for a transitive time when the neurons work with the automatic controllers with a minimum mean error of ±1.2 mm.}
+      \field{issn}{2072-666X}
+      \field{journaltitle}{Micromachines}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Implementation of {ANN}-{Based} {Auto}-{Adjustable} for a {Pneumatic} {Servo} {System} {Embedded} on {FPGA}}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{890}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mi13060890
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/marcossoto/Zotero/storage/QFYJMQMU/Cabrera-Rufino et al. - 2022 - Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-666X/13/6/890
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-666X/13/6/890
+      \endverb
+    \endentry
+    \entry{liberati_prisma_2009}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=4c745e8fa442ed95b7f9b054f9746e10}{%
+           family={Liberati},
+           familyi={L\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ce6bf42d01103efaeb232afe926b01a}{%
+           family={Altman},
+           familyi={A\bibinitperiod},
+           given={Douglas\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7498488ac3d1305dbdcec477c9feebf0}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd1df298f04702063bd16e66bf0a487d}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=698131a57e889209f836b8b518a1ad88}{%
+           family={Gøtzsche},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03e697d9228cdc30ac73d1b71c8da689}{%
+           family={Ioannidis},
+           familyi={I\bibinitperiod},
+           given={John\bibnamedelimb P.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00c09fca53e90c17c5f58df4e3685ca2}{%
+           family={Clarke},
+           familyi={C\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c7b3193f88585e874fca72d0274f241}{%
+           family={Devereaux},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc4f7a70b695be083243c9bce4d6bc8a}{%
+           family={Kleijnen},
+           familyi={K\bibinitperiod},
+           given={Jos},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d1aacd0fba76513e1dab5843d4bccd40}
+      \strng{fullhash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{fullhashraw}{93de54f51df51fab85c218785f9f1a31}
+      \strng{bibnamehash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authorbibnamehash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authornamehash}{d1aacd0fba76513e1dab5843d4bccd40}
+      \strng{authorfullhash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authorfullhashraw}{93de54f51df51fab85c218785f9f1a31}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Systematic reviews and meta-analyses are essential to summarize evidence relating to efficacy and safety of health care interventions accurately and reliably. The clarity and transparency of these reports, however, is not optimal. Poor reporting of systematic reviews diminishes their value to clinicians, policy makers, and other users. Since the development of the QUOROM (QUality Of Reporting Of Meta-analysis) Statement—a reporting guideline published in 1999—there have been several conceptual, methodological, and practical advances regarding the conduct and reporting of systematic reviews and meta-analyses. Also, reviews of published systematic reviews have found that key information about these studies is often poorly reported. Realizing these issues, an international group that included experienced authors and methodologists developed PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) as an evolution of the original QUOROM guideline for systematic reviews and meta-analyses of evaluations of health care interventions. The PRISMA Statement consists of a 27-item checklist and a four-phase flow diagram. The checklist includes items deemed essential for transparent reporting of a systematic review. In this Explanation and Elaboration document, we explain the meaning and rationale for each checklist item. For each item, we include an example of good reporting and, where possible, references to relevant empirical studies and methodological literature. The PRISMA Statement, this document, and the associated Web site (http://www. prisma-statement.org/) should be helpful resources to improve reporting of systematic reviews and metaanalyses.}
+      \field{issn}{1549-1676}
+      \field{journaltitle}{PLoS Medicine}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shorttitle}{The {PRISMA} {Statement} for {Reporting} {Systematic} {Reviews} and {Meta}-{Analyses} of {Studies} {That} {Evaluate} {Health} {Care} {Interventions}}
+      \field{title}{The {PRISMA} {Statement} for {Reporting} {Systematic} {Reviews} and {Meta}-{Analyses} of {Studies} {That} {Evaluate} {Health} {Care} {Interventions}: {Explanation} and {Elaboration}}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{6}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{e1000100}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1000100
+      \endverb
+      \verb{file}
+      \verb Liberati et al. - 2009 - The PRISMA Statement for Reporting Systematic Revi.pdf:/Users/marcossoto/Zotero/storage/XKEQUJ98/Liberati et al. - 2009 - The PRISMA Statement for Reporting Systematic Revi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pmed.1000100
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pmed.1000100
+      \endverb
+    \endentry
+    \entry{song_dynamic_2023}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=762350c841eb58dedddefe6dc6b93c6f}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Shangfei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68c6a1b84ab44e4f36a8695cbea1b5c7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xuanzhang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6315edf4a0d30beffa719ef90fcd214e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chenxuan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e24bcca01cf5890a6b9ac6ccb5b492f8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d326e43cd674f13c99201bffa11d9f47}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shijia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bb2d83991df51fab82e334ba89d1132}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c077b506b55d65acf6bce14b1439e39b}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Bohui},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c15d80e33ee61a63e8748f8ed6657b52}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfdc887550bbd6e8919e4472ea8238b1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Haihao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cc78d46b367834cd432c4240201a94d}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a963028665f533b5113eb7ce323bfb15}
+      \strng{fullhash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{fullhashraw}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{bibnamehash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authorbibnamehash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authornamehash}{a963028665f533b5113eb7ce323bfb15}
+      \strng{authorfullhash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authorfullhashraw}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, a dynamic simulator for three-phase gravity separators in oil production facilities is proposed. The mass conservation equation is established to calculate the pressure, water level, and oil level in the separator and the mass balance equation of the dispersed phase to calculate the oil−water separation efficiency. The proportional integral controllers are applied to control the water level, oil level, and pressure in the separator by setting the opening of the three outlet valves of oil, gas, and water. The model is verified using field data by means of the given valve opening and given proportional integral controller parameters, respectively. Subsequently, the verified simulator is applied to study the dynamic behavior of the separator filling process and the effect of pressure, oil level, and water level setpoint changes on the separator operating status. A detailed analysis of the changes in the liquid level, pressure, and opening of three outlet valves is presented. Then, the effects of operating conditions such as the inlet flow, water setpoint, and weir height on the separation efficiency are discussed. This simulator can be applied for the design of oil, gas, and water three-phase separation processes. In addition, through this simulator, the parameters that are difficult to be measured by instruments during the operation of the separator can be calculated, providing technical support for the construction of the digital twin of the separator.}
+      \field{issn}{2470-1343, 2470-1343}
+      \field{journaltitle}{ACS Omega}
+      \field{month}{2}
+      \field{number}{6}
+      \field{title}{Dynamic {Simulator} for {Three}-{Phase} {Gravity} {Separators} in {Oil} {Production} {Facilities}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{6078\bibrangedash 6089}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1021/acsomega.2c08267
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/marcossoto/Zotero/storage/RS7VZTCY/Song et al. - 2023 - Dynamic Simulator for Three-Phase Gravity Separators in Oil Production Facilities.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/acsomega.2c08267
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/acsomega.2c08267
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{cabrera-rufino_implementation_2022}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f338b025526a373730f0e4392aafd905}{%
+           family={Cabrera-Rufino},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Marco-Antonio},
+           giveni={M\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce6a0410cb379176932158d5da55cd79}{%
+           family={Ramos-Arreguín},
+           familyi={R\bibinithyphendelim A\bibinitperiod},
+           given={Juan-Manuel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38bc4885ee7654a1eeb070eb0b335b62}{%
+           family={Rodríguez-Reséndiz},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Juvenal},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7171b7e753d67ea93cd5e1a1245dad1}{%
+           family={Gorrostieta-Hurtado},
+           familyi={G\bibinithyphendelim H\bibinitperiod},
+           given={Efren},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66486377aec95f92ff06d6ca71dd0d61}{%
+           family={Aceves-Fernandez},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={Marco-Antonio},
+           giveni={M\bibinithyphendelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{fda2d4c8b5d9dd51308aed97668c0062}
+      \strng{fullhash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{fullhashraw}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{bibnamehash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authorbibnamehash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authornamehash}{fda2d4c8b5d9dd51308aed97668c0062}
+      \strng{authorfullhash}{80577d103ee922879c826e3a16bbbfcb}
+      \strng{authorfullhashraw}{80577d103ee922879c826e3a16bbbfcb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artiﬁcial intelligence techniques for pneumatic robot manipulators have become of deep interest in industrial applications, such as non-high voltage environments, clean operations, and high power-to-weight ratio tasks. The principal advantages of this type of actuator are the implementation of clean energies, low cost, and easy maintenance. The disadvantages of working with pneumatic actuators are that they have non-linear characteristics. This paper proposes an intelligent controller embedded in a programmable logic device to minimize the non-linearities of the air behavior into a 3-degrees-of-freedom robot with pneumatic actuators. In this case, the device is suitable due to several electric valves, direct current motors signals, automatic controllers, and several neural networks. For every degree of freedom, three neurons adjust the gains for each controller. The learning process is constantly tuning the gain value to reach the minimum of the mean square error. Results plot a more appropriate behavior for a transitive time when the neurons work with the automatic controllers with a minimum mean error of ±1.2 mm.}
+      \field{issn}{2072-666X}
+      \field{journaltitle}{Micromachines}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{Implementation of {ANN}-{Based} {Auto}-{Adjustable} for a {Pneumatic} {Servo} {System} {Embedded} on {FPGA}}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{890}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mi13060890
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/marcossoto/Zotero/storage/QFYJMQMU/Cabrera-Rufino et al. - 2022 - Implementation of ANN-Based Auto-Adjustable for a Pneumatic Servo System Embedded on FPGA.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-666X/13/6/890
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-666X/13/6/890
+      \endverb
+    \endentry
+    \entry{liberati_prisma_2009}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=4c745e8fa442ed95b7f9b054f9746e10}{%
+           family={Liberati},
+           familyi={L\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ce6bf42d01103efaeb232afe926b01a}{%
+           family={Altman},
+           familyi={A\bibinitperiod},
+           given={Douglas\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7498488ac3d1305dbdcec477c9feebf0}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd1df298f04702063bd16e66bf0a487d}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=698131a57e889209f836b8b518a1ad88}{%
+           family={Gøtzsche},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03e697d9228cdc30ac73d1b71c8da689}{%
+           family={Ioannidis},
+           familyi={I\bibinitperiod},
+           given={John\bibnamedelimb P.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00c09fca53e90c17c5f58df4e3685ca2}{%
+           family={Clarke},
+           familyi={C\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c7b3193f88585e874fca72d0274f241}{%
+           family={Devereaux},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc4f7a70b695be083243c9bce4d6bc8a}{%
+           family={Kleijnen},
+           familyi={K\bibinitperiod},
+           given={Jos},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{d1aacd0fba76513e1dab5843d4bccd40}
+      \strng{fullhash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{fullhashraw}{93de54f51df51fab85c218785f9f1a31}
+      \strng{bibnamehash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authorbibnamehash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authornamehash}{d1aacd0fba76513e1dab5843d4bccd40}
+      \strng{authorfullhash}{93de54f51df51fab85c218785f9f1a31}
+      \strng{authorfullhashraw}{93de54f51df51fab85c218785f9f1a31}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Systematic reviews and meta-analyses are essential to summarize evidence relating to efficacy and safety of health care interventions accurately and reliably. The clarity and transparency of these reports, however, is not optimal. Poor reporting of systematic reviews diminishes their value to clinicians, policy makers, and other users. Since the development of the QUOROM (QUality Of Reporting Of Meta-analysis) Statement—a reporting guideline published in 1999—there have been several conceptual, methodological, and practical advances regarding the conduct and reporting of systematic reviews and meta-analyses. Also, reviews of published systematic reviews have found that key information about these studies is often poorly reported. Realizing these issues, an international group that included experienced authors and methodologists developed PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) as an evolution of the original QUOROM guideline for systematic reviews and meta-analyses of evaluations of health care interventions. The PRISMA Statement consists of a 27-item checklist and a four-phase flow diagram. The checklist includes items deemed essential for transparent reporting of a systematic review. In this Explanation and Elaboration document, we explain the meaning and rationale for each checklist item. For each item, we include an example of good reporting and, where possible, references to relevant empirical studies and methodological literature. The PRISMA Statement, this document, and the associated Web site (http://www. prisma-statement.org/) should be helpful resources to improve reporting of systematic reviews and metaanalyses.}
+      \field{issn}{1549-1676}
+      \field{journaltitle}{PLoS Medicine}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shorttitle}{The {PRISMA} {Statement} for {Reporting} {Systematic} {Reviews} and {Meta}-{Analyses} of {Studies} {That} {Evaluate} {Health} {Care} {Interventions}}
+      \field{title}{The {PRISMA} {Statement} for {Reporting} {Systematic} {Reviews} and {Meta}-{Analyses} of {Studies} {That} {Evaluate} {Health} {Care} {Interventions}: {Explanation} and {Elaboration}}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{6}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \field{pages}{e1000100}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pmed.1000100
+      \endverb
+      \verb{file}
+      \verb Liberati et al. - 2009 - The PRISMA Statement for Reporting Systematic Revi.pdf:/Users/marcossoto/Zotero/storage/XKEQUJ98/Liberati et al. - 2009 - The PRISMA Statement for Reporting Systematic Revi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pmed.1000100
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pmed.1000100
+      \endverb
+    \endentry
+    \entry{song_dynamic_2023}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=762350c841eb58dedddefe6dc6b93c6f}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Shangfei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68c6a1b84ab44e4f36a8695cbea1b5c7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xuanzhang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6315edf4a0d30beffa719ef90fcd214e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chenxuan},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e24bcca01cf5890a6b9ac6ccb5b492f8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhe},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d326e43cd674f13c99201bffa11d9f47}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shijia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bb2d83991df51fab82e334ba89d1132}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c077b506b55d65acf6bce14b1439e39b}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Bohui},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c15d80e33ee61a63e8748f8ed6657b52}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfdc887550bbd6e8919e4472ea8238b1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Haihao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cc78d46b367834cd432c4240201a94d}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a963028665f533b5113eb7ce323bfb15}
+      \strng{fullhash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{fullhashraw}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{bibnamehash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authorbibnamehash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authornamehash}{a963028665f533b5113eb7ce323bfb15}
+      \strng{authorfullhash}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \strng{authorfullhashraw}{bd6263dfe8dc42079eaf25e011d7bce5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, a dynamic simulator for three-phase gravity separators in oil production facilities is proposed. The mass conservation equation is established to calculate the pressure, water level, and oil level in the separator and the mass balance equation of the dispersed phase to calculate the oil−water separation efficiency. The proportional integral controllers are applied to control the water level, oil level, and pressure in the separator by setting the opening of the three outlet valves of oil, gas, and water. The model is verified using field data by means of the given valve opening and given proportional integral controller parameters, respectively. Subsequently, the verified simulator is applied to study the dynamic behavior of the separator filling process and the effect of pressure, oil level, and water level setpoint changes on the separator operating status. A detailed analysis of the changes in the liquid level, pressure, and opening of three outlet valves is presented. Then, the effects of operating conditions such as the inlet flow, water setpoint, and weir height on the separation efficiency are discussed. This simulator can be applied for the design of oil, gas, and water three-phase separation processes. In addition, through this simulator, the parameters that are difficult to be measured by instruments during the operation of the separator can be calculated, providing technical support for the construction of the digital twin of the separator.}
+      \field{issn}{2470-1343, 2470-1343}
+      \field{journaltitle}{ACS Omega}
+      \field{month}{2}
+      \field{number}{6}
+      \field{title}{Dynamic {Simulator} for {Three}-{Phase} {Gravity} {Separators} in {Oil} {Production} {Facilities}}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{8}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{6078\bibrangedash 6089}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1021/acsomega.2c08267
+      \endverb
+      \verb{file}
+      \verb PDF:/Users/marcossoto/Zotero/storage/RS7VZTCY/Song et al. - 2023 - Dynamic Simulator for Three-Phase Gravity Separators in Oil Production Facilities.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/acsomega.2c08267
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/acsomega.2c08267
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
